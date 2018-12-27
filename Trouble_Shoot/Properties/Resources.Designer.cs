@@ -63,9 +63,9 @@ namespace Trouble_Shoot.Properties {
         /// <summary>
         ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bricks {
+        internal static System.Drawing.Bitmap level1przeszkoda {
             get {
-                object obj = ResourceManager.GetObject("bricks", resourceCulture);
+                object obj = ResourceManager.GetObject("level1przeszkoda", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Trouble_Shoot.Properties {
         /// <summary>
         ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bricks1 {
+        internal static System.Drawing.Bitmap level2przeszkoda {
             get {
-                object obj = ResourceManager.GetObject("bricks1", resourceCulture);
+                object obj = ResourceManager.GetObject("level2przeszkoda", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace Trouble_Shoot.Properties {
         /// <summary>
         ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kosmoq {
+        internal static System.Drawing.Bitmap level3przeszkoda {
             get {
-                object obj = ResourceManager.GetObject("kosmoq", resourceCulture);
+                object obj = ResourceManager.GetObject("level3przeszkoda", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace Trouble_Shoot.Properties {
         /// <summary>
         ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kosmos {
+        internal static System.Drawing.Bitmap paletaimage {
             get {
-                object obj = ResourceManager.GetObject("kosmos", resourceCulture);
+                object obj = ResourceManager.GetObject("paletaimage", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
